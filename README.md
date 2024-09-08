@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently learning about Generative AI : Prompt Engineering, LLMs, Vector Databases and Chatbots.
 <!--
 **estelacode/estelacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
