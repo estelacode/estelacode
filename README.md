@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently learning about Generative AI:  LLMs, LMM, Embeddings | Vector Databases | Prompt Engineering |  Chatbots | Agents |
+I am currently learning about Generative AI:  LLMs, LMM, Embeddings | Vector Databases | Prompt Engineering |  Chatbots | Agents | MCP(Model Context Protocol)
 <!--
 **estelacode/estelacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
