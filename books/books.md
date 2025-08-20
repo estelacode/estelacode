@@ -2,6 +2,7 @@
  
  
  ## 📗 Python 
+ * Introducción a la ciencia y análisis de datos con Python: una visión empresarial: https://media.licdn.com/dms/document/media/v2/D4E1FAQFykmHj_zKKSg/feedshare-document-pdf-analyzed/B4EZi7qkWBGUAY-/0/1755495164693?e=1756339200&v=beta&t=XWDvAAOsbumVkz_PRibU5mI4UsHnSYcC0iK8EdqUqlw
  * Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
  * Python for Data Analysis, 3E: https://wesmckinney.com/book/
  * Data Science from scratch: https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/Data%20Science%20from%20Scratch%20by%20Joel%20Grus.pdf
@@ -28,8 +29,11 @@
  
  ## 📕 Deep Learning
  * Dive into Deep Learning: https://d2l.ai/
- 
- 
+
+ ## AI 
+ * Artificial Intelligence - Foundations of Computational Agents : https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf
+ * Artificial Intelligence - A Modern Approach https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf
+ * Guía Básica de la IA: https://multimedia2.coev.com/pdfs/Guia-Basica-IA.pdf
  
  
  
