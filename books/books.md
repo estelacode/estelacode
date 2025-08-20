@@ -17,7 +17,10 @@
  * Introduction to Data Science: Data Analysis and Prediction Algorithms with R https://rafalab.dfci.harvard.edu/dsbook/
  * An Introduction to Statistical Learning: With application in R: https://www.statlearning.com/
  * Data Science Live Book: https://livebook.datascienceheroes.com/index.html
- 
+
+ ## Statistics
+ * Introductory Statistics: https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf
+ * The Elements of Statistical Learning: https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf
  
  ## 📙 Machine Learning
   * Introduction to Machine Learning with Python: https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf
