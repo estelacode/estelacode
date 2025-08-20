@@ -26,9 +26,12 @@
  ## 📙 Machine Learning
   * [Introduction to Machine Learning with Python](https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
   * [Mathematic for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+  * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+  * [Machine Learning Book](https://phuijse.github.io/MachineLearningBook/README.html)
  
  ## 📕 Deep Learning
  * [Dive into Deep Learning](https://d2l.ai/)
+ * [Deep Learning- Foundations and Concept](https://personalpages.manchester.ac.uk/staff/mingfei.sun/books/deep-learning.pdf)
 
  ## AI 
  * [Artificial Intelligence - Foundations of Computational Agents](https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf)
