@@ -1,4 +1,4 @@
-#  🧠 Papers | Whitepapers 
+#  🧠 Whitepapers 
 
 ## ◻️ Google Whitepapers
 * Foundational Large Language Models & Text Generation: https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view
