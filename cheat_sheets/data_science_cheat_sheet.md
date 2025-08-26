@@ -1,7 +1,8 @@
-# Data Science Cheat Sheets
+# DATA SCIENCE CHEAT SHEETS LINKS
 
-## [DataCamp Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)
-### Machine Learning 
+##### [DataCamp Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)
+
+### MACHINE LEARNING
 * [Supervised Machine Learning Models Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1669897463/Marketing/Blog/Supervised_Machine_Learning_Models.pdf)
 * [Unsupervised Machine Learning Models Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1669897283/Marketing/Blog/Unsupervised_Machine_Learning_Models.pdf)
 * [Top Machine Learning Algorithms](https://s3.amazonaws.com/assets.datacamp.com/email/other/ML+Cheat+Sheet_2.pdf)
@@ -11,7 +12,7 @@
 ### NLP
 * [SciPy Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676303474/Marketing/Blog/SciPy_Cheat_Sheet.pdf)
 
-### Python Data Science Tools
+### PYTHON DATA SCIENCE TOOLS
 * [NumPy Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
 * [Importing Data Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676302004/Marketing/Blog/Importing_Data_Cheat_Sheet.pdf)
 * [Data Wrangling in Pandas Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676302827/Marketing/Blog/Data_Wrangling_Cheat_Sheet.pdf)
@@ -19,15 +20,15 @@
 * [Regular Expressions Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1665049611/Marketing/Blog/Regular_Expressions_Cheat_Sheet.pdf)
 * [Markdown Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1697797990/Marketing/Blog/Markdown_Cheat_Sheet.pdf)
 
-# STATISTICS AND PROBABILITY
+### STATISTICS AND PROBABILITY
 * [Descriptive Statistics Cheat Sheet](https://media.datacamp.com/cms/descriptive-statistics---cheat-sheet---25.pdf)
 * [Introduction to Probability Rules Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1680264475/Marketing/Blog/Probability_Cheat_Sheet.pdf)
 
-### Deep Learning 
+### DEEP LEARNING
 * [Deep Learning with PyTorch Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1695985637/Marketing/Blog/Deep_Learning_with_PyTorch_1.pdf)
 * [Keras Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1660903348/Keras_Cheat_Sheet_gssmi8.pdf)
 
-### Data Visualization
+### DATA VISUALIZATION
 * [Matplotlib Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676360378/Marketing/Blog/Matplotlib_Cheat_Sheet.pdf)
 * [Seaborn Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676302629/Marketing/Blog/Seaborn_Cheat_Sheet.pdf)
 * [Data Visualization with Plotly Express in Python](https://media.datacamp.com/legacy/image/upload/v1668605954/Marketing/Blog/Plotly_Cheat_Sheet.pdf)
