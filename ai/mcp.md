@@ -5,7 +5,6 @@ MCP is an open protocol that standardizes how applications provide context to la
 ### Mcp Inspector
 - [Install the Mcp Inspector](https://github.com/modelcontextprotocol/inspector)
 
-  
 ### MCP Server
 - [LlamaCloud](https://github.com/run-llama/llamacloud-mcp): LlamaCloud as an MCP server
 - [Github](https://github.com/github/github-mcp-server)
@@ -18,7 +17,6 @@ MCP is an open protocol that standardizes how applications provide context to la
 - [Paypal mcp](https://www.paypal.ai/docs/tools/mcp-quickstart)
 - [Visual studio code mcp](https://code.visualstudio.com/mcp)
 
-- 
 ### Mcp Marketplaces
 - [Docker mcp catalog](https://www.docker.com/products/mcp-catalog-and-toolkit/)
 - https://mcpmarket.com/es
