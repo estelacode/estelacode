@@ -21,6 +21,7 @@
  ## Statistics
  * [Introductory Statistics](https://assets.openstax.org/oscms-prodcms/media/documents/IntroductoryStatistics-OP_i6tAI7e.pdf)
  * [The Elements of Statistical Learning](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+ * [Estadística Descriptiva Aplicada en Python](https://media.licdn.com/dms/document/media/v2/D4D1FAQFjC3lUtQ6bGw/feedshare-document-pdf-analyzed/B4DZj2PDGRHsAY-/0/1756477816532?e=1757548800&v=beta&t=-xvXLcffDJF8XnJTONZXFmR7ssrfKqdpiUHAIw-ZjjM)
  
  ## 📙 Machine Learning
   * [Introduction to Machine Learning with Python](https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf)
