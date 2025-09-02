@@ -28,6 +28,7 @@
   * [Mathematic for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
   * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) ➡️Read Online.
   * [Machine Learning Book](https://phuijse.github.io/MachineLearningBook/README.html) ➡️Read Online.
+  * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)➡️Read Online.
  
  ## 📕 Deep Learning
  * [Dive into Deep Learning](https://d2l.ai/) ➡️Read Online.
