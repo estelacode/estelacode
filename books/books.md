@@ -33,6 +33,7 @@
  ## 📕 Deep Learning
  * [Dive into Deep Learning](https://d2l.ai/) ➡️Read Online.
  * [Deep Learning- Foundations and Concept](https://personalpages.manchester.ac.uk/staff/mingfei.sun/books/deep-learning.pdf)
+ * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/)➡️Read Online.
 
  ## 📔 AI 
  * [Artificial Intelligence - Foundations of Computational Agents](https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf)
