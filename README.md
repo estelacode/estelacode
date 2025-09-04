@@ -1,5 +1,16 @@
 ### Hi there 👋
-I am currently learning about Generative AI:  **LLMs**(Large Language Models) ▫︎ **Embeddings** ▫︎ **Vector Databases** ▫︎ **Prompt Engineering** ▫︎ **LMM**(Large Multimodal Models) ▫︎ **VLM**(Visual Language Models) ▫︎ **RAG**(Retrieval-Augmented Generation) ▫︎ **Chatbots** ▫︎ **AI-Agents** ▫︎ **MCP**(Model Context Protocol) ▫︎ **Google ADK**(Agent Development Kit)
+I am currently learning about Generative AI:  
+▫︎ **LLMs**(Large Language Models) 
+▫︎ **Embeddings** 
+▫︎ **Vector Databases** 
+▫︎ **Prompt Engineering** 
+▫︎ **LMM**(Large Multimodal Models) 
+▫︎ **VLM**(Visual Language Models)
+▫︎ **RAG**(Retrieval-Augmented Generation) 
+▫︎ **Chatbots** ▫︎ **AI-Agents** 
+▫︎ **MCP**(Model Context Protocol) 
+▫︎ **Google ADK**(Agent Development Kit)
+
 <!--
 **estelacode/estelacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
