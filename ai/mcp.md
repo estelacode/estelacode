@@ -1,4 +1,4 @@
-### [Model Context Protocol](https://modelcontextprotocol.io/overview)
+### [🛠️ Model Context Protocol](https://modelcontextprotocol.io/overview)
 
 MCP is an open protocol that standardizes how applications provide context to large language models (LLMs). 
   
