@@ -43,4 +43,4 @@
  * [Artificial Intelligence - A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf)
  * [Guía Básica de la IA](https://multimedia2.coev.com/pdfs/Guia-Basica-IA.pdf)
  * [AI Agents 2025 EDITION The Illustrated GuideBook](https://media.licdn.com/dms/document/media/v2/D4E1FAQGrkFzvshfrJA/feedshare-document-pdf-analyzed/B4EZjEz2dgHgAY-/0/1755648602220?e=1756339200&v=beta&t=PhnVEtossMopTnRiVpClwJOIwaDsaVMm2aWbdyp0iRE)
- * [**AI Agents, and the Model Context Protocol**](https://jasoninzer.com/docs/BCG_AI_Agent_Report.pdf)
+ * [AI Agents, and the Model Context Protocol(MCP)](https://jasoninzer.com/docs/BCG_AI_Agent_Report.pdf)
