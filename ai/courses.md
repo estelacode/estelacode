@@ -10,3 +10,11 @@
 - [Anthropic Academy](https://www.anthropic.com/learn)
 - [Anthropic Couses](https://anthropic.skilljar.com/)
 
+
+
+
+### 🧪 MOOCs
+- [Agentic AI](https://agenticai-learning.org/f25)
+- [Advanced Large Language Model Agents](https://agenticai-learning.org/sp25)
+- [Large Language Model Agents](https://agenticai-learning.org/f24)
+
