@@ -15,6 +15,9 @@
 ## ◻️ Open AI
 * A practical guide to building agents: https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 
+## Groq
+* Groq Whitepapers: https://groq.com/papers
+
 ## ◻️ IBM 
 * Agentic AI in Financial Services Opportunities, Risks, and Responsible Implementation: https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329
 
