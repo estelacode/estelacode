@@ -2,8 +2,10 @@
 
  
  ## 📗 Python 
+
  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) ➡️Read Online.
  * [Python for Data Analysis, 3E](https://wesmckinney.com/book/) ➡️Read Online.
+ * [Python para todos](https://persoal.citius.usc.es/eva.cernadas/informaticaparacientificos/material/libros/Python%20para%20todos.pdf)
  * [Data Science from scratch](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/Data%20Science%20from%20Scratch%20by%20Joel%20Grus.pdf)
  * [An Introduction to Statistical Learning: With application in Python](https://www.statlearning.com/) ➡️Read Online.
  * [Principles of Data Science](https://assets.openstax.org/oscms-prodcms/media/documents/Principles-of-Data-Science-WEB.pdf)
