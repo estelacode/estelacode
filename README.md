@@ -7,9 +7,12 @@ I am currently learning about Generative AI:
 - **LMM**(Large Multimodal Models) 
 - **VLM**(Visual Language Models)
 - **RAG**(Retrieval-Augmented Generation) 
-- **Chatbots** ▫︎ **AI-Agents** 
+- **Chatbots**
+- **AI-Agents**
+- **AI Voice Agents**
 - **MCP**(Model Context Protocol) 
 - **Google ADK**(Agent Development Kit)
+- **LiveKit**
 
 <!--
 **estelacode/estelacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
