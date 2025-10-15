@@ -10,6 +10,7 @@ I am currently learning about Generative AI:
 - **Chatbots**
 - **AI-Agents**
 - **AI Voice Agents**
+- **FastAPI**
 - **FastMCP**
 - **MCP**(Model Context Protocol) 
 - **Google ADK**(Agent Development Kit)
