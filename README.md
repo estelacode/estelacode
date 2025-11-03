@@ -18,6 +18,8 @@ I am currently learning about Generative AI:
 - **WebRTC**(Web Real-Time Communication)
 - **Imagen 4**
 - **Veo 3**
+- **Nano Banana**
+- **Cloud Run**
 
 <!--
 **estelacode/estelacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
