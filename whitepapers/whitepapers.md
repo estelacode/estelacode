@@ -21,7 +21,7 @@
 ## ◻️ IBM 
 * Agentic AI in Financial Services Opportunities, Risks, and Responsible Implementation: https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329
 
-## Anthropic
+## ◻️ Anthropic
 * Building trusted AI in the enterprise - Anthropic’s guide to starting, scaling, and succeeding based on real-world examples and best practices: https://assets.anthropic.com/m/66daaa23018ab0fd/original/Anthropic-enterprise-ebook-digital.pdf
 
 ## ◻️Galileo
@@ -32,3 +32,6 @@
 
 ## ◻️ Weaviate
 * Agentic Architectures for Retrieval-intensive Applications: https://8738733.fs1.hubspotusercontent-na1.net/hubfs/8738733/eBooks/Weaviate%20Agentic%20Architectures-ebook.pdf
+
+## ◻️ Vellum 
+LLM Parameter Guide: https://www.vellum.ai/llm-parameters-guide?utm_source=google&utm_medium=organic
