@@ -33,5 +33,7 @@
 ## ◻️ Weaviate
 * Agentic Architectures for Retrieval-intensive Applications: https://8738733.fs1.hubspotusercontent-na1.net/hubfs/8738733/eBooks/Weaviate%20Agentic%20Architectures-ebook.pdf
 
+* Context Engineering - Designing the systems that control what information reaches the model and how it maintains coherence: https://media.licdn.com/dms/document/media/v2/D4E1FAQErQ3oxbiyUZw/feedshare-document-pdf-analyzed/B4EZpQ02HtKoAY-/0/1762292647696?e=1762992000&v=beta&t=TvTNHOmZZvE2EeOZ_Bdu6rs48bM8OR5qyJX3UtzogZQ
+
 ## ◻️ Vellum 
 LLM Parameter Guide: https://www.vellum.ai/llm-parameters-guide?utm_source=google&utm_medium=organic
