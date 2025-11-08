@@ -11,7 +11,6 @@
 * Prompting Guide 101 - A quick-start handbook for effective prompts: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
 * Google’s Approach for Secure AI Agents - An Introduction: https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf
 
-
 ## ◻️ Open AI
 * A practical guide to building agents: https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
 
@@ -37,3 +36,8 @@
 
 ## ◻️ Vellum 
 LLM Parameter Guide: https://www.vellum.ai/llm-parameters-guide?utm_source=google&utm_medium=organic
+
+#  🧠 Ebooks
+
+## ◻️ Google Ebooks
+* Build Software Sustainably: https://www.gstatic.com/bricks/pdf/c2a8e9ed-01b4-442a-94fe-d084fc8f9bbe/Google%20Cloud%20Build%20Software%20Sustainably%202025.pdf
