@@ -41,13 +41,13 @@
  * [Deep Learning- Foundations and Concept](https://personalpages.manchester.ac.uk/staff/mingfei.sun/books/deep-learning.pdf)
  * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/)➡️Read Online.
  * [Undertanding Deep Learning](https://udlbook.github.io/udlbook/)
- ## 📔 AI 
+ ## 📔 AI | AI Agents
  * [Artificial Intelligence - Foundations of Computational Agents](https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf)
  * [Artificial Intelligence - A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf)
  * [Guía Básica de la IA](https://multimedia2.coev.com/pdfs/Guia-Basica-IA.pdf)
  * [AI Agents 2025 EDITION The Illustrated GuideBook](https://media.licdn.com/dms/document/media/v2/D4E1FAQGrkFzvshfrJA/feedshare-document-pdf-analyzed/B4EZjEz2dgHgAY-/0/1755648602220?e=1756339200&v=beta&t=PhnVEtossMopTnRiVpClwJOIwaDsaVMm2aWbdyp0iRE)
  * [AI Agents, and the Model Context Protocol(MCP)](https://jasoninzer.com/docs/BCG_AI_Agent_Report.pdf)
-
+ * [The Agentic Systems Series - Book 1: Building an Agentic System | Book 2: Amping Up an Agentic System | Book 3: Contextualizing an Agentic System](https://gerred.github.io/building-an-agentic-system/index.html) ➡️Read Online
 
 ## Design of AI system Architectures
 * [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://doc-0g-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/gdn7mlm1m4l2k87qgc5ofdjb122qn3jh/1760692875000/drive/*/ACFrOgANUUTajZd7Ra8VbiMjVTHlL9Z6cSgyg66p6psEtxE7MNHQC4yvYuSR6oDjgslrAhrIFsh46aa_zqhw-iBqvHrIfXZaXuzxv3YsidXLxpeJGMXHn5iEkTZkM8yyQpWrvEkEFwmtLVzRBEhwXzPJ7cVAWlHU83NyePiewrcT9UIjGTR4Xyf8sWCmsVmWwdUjPtFs9nqEThYndrAsJkkZp1ha40pUrCnGib0auV4Mh5VngVIJSsdIYbq6OdU=?print=true)
