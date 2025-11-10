@@ -1,13 +1,13 @@
 #  🧠 Whitepapers 
 
 ## ◻️ Google Whitepapers
-* Foundational Large Language Models & Text Generation: https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view
-* Prompt Engineering: https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view
-* Embeddings & Vector Stores: https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view
-* Generative AI Agents: https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view
-* Agents Companion: https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view
-* Solving Domain-Specific Problems Using LLMs: https://drive.google.com/file/d/17oA0s8yh8xNZ5ZKiM7cR3lPFlRO-P02a/view
-* Operationalizing Generative AI on Vertex AI using MLOps: https://drive.google.com/file/d/1di0wyazJkwLA4VbXoBDqxveaJOwFmdJF/view
+* [5-Day Gen AI Intensive Course] - Foundational Large Language Models & Text Generation: https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view
+* [5-Day Gen AI Intensive Course] - Prompt Engineering: https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view
+* [5-Day Gen AI Intensive Course] - Embeddings & Vector Stores: https://drive.google.com/file/d/12AI7lRBc8DQvqMGmit3mcgL3rsZwkEID/view
+* [5-Day Gen AI Intensive Course] - Generative AI Agents: https://drive.google.com/file/d/1W8EnoPXRLTQesfjvb-b3Zj-dnBf1f--n/view
+* [5-Day Gen AI Intensive Course] - Agents Companion: https://drive.google.com/file/d/1GVPdwEh48bErTNdhxD0vqxPAifSx1I6Y/view
+* [5-Day Gen AI Intensive Course] - Solving Domain-Specific Problems Using LLMs: https://drive.google.com/file/d/17oA0s8yh8xNZ5ZKiM7cR3lPFlRO-P02a/view
+* [5-Day Gen AI Intensive Course] - Operationalizing Generative AI on Vertex AI using MLOps: https://drive.google.com/file/d/1di0wyazJkwLA4VbXoBDqxveaJOwFmdJF/view
 * Prompting Guide 101 - A quick-start handbook for effective prompts: https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf
 * Google’s Approach for Secure AI Agents - An Introduction: https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf
 * [5-Day AI Agents Intensive Course] - Introduction to Agents: https://drive.google.com/file/d/1C-HvqgxM7dj4G2kCQLnuMXi1fTpXRdpx/view?pli=1
