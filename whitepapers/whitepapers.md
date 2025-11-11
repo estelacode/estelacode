@@ -11,6 +11,7 @@
 * [Prompting Guide 101 - A quick-start handbook for effective prompts](https://services.google.com/fh/files/misc/gemini_for_workspace_prompt_guide_october_2024_digital_final.pdf)
 * [Google’s Approach for Secure AI Agents - An Introduction](https://storage.googleapis.com/gweb-research2023-media/pubtools/1018686.pdf)
 * [5-Day AI Agents Intensive Course - Introduction to Agents](https://drive.google.com/file/d/1C-HvqgxM7dj4G2kCQLnuMXi1fTpXRdpx/view?pli=1)
+* [5-Day AI Agents Intensive Course - Agent Tools & Interoperability with MCP](https://drive.google.com/file/d/1ENMUDzybOzxnycQQxNh5sE9quRd0s3Sd/view)
 
 
 ## ◻️ Open AI
