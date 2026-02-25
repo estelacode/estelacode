@@ -49,7 +49,7 @@
  * [AI Agents, and the Model Context Protocol(MCP)](https://jasoninzer.com/docs/BCG_AI_Agent_Report.pdf)
  * [The Agentic Systems Series - Book 1: Building an Agentic System | Book 2: Amping Up an Agentic System | Book 3: Contextualizing an Agentic System](https://gerred.github.io/building-an-agentic-system/index.html) ➡️Read Online
  * [Al Agents in Kubernetes: Building and Running Al Agents for Production](https://pages.solo.io/rs/132-VJP-402/images/AI-Agents-in-Kubernetes-1stEdition-2025_10.pdf?version=0)
- * [The Complete Guide to AI Agent Architectures in 2026](https://agnt.gg/articles/the-complete-guide-to-ai-agent-architectures-2026?utm_source=chatgpt.com)➡️Read Online.
+ * [The Complete Guide to AI Agent Architectures in 2026](https://agnt.gg/articles/the-complete-guide-to-ai-agent-architectures-2026?utm_source=chatgpt.com) ➡️Read Online.
 
 ## Design of AI system Architectures
 * [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://doc-0g-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/gdn7mlm1m4l2k87qgc5ofdjb122qn3jh/1760692875000/drive/*/ACFrOgANUUTajZd7Ra8VbiMjVTHlL9Z6cSgyg66p6psEtxE7MNHQC4yvYuSR6oDjgslrAhrIFsh46aa_zqhw-iBqvHrIfXZaXuzxv3YsidXLxpeJGMXHn5iEkTZkM8yyQpWrvEkEFwmtLVzRBEhwXzPJ7cVAWlHU83NyePiewrcT9UIjGTR4Xyf8sWCmsVmWwdUjPtFs9nqEThYndrAsJkkZp1ha40pUrCnGib0auV4Mh5VngVIJSsdIYbq6OdU=?print=true)
