@@ -32,6 +32,7 @@
   * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) ➡️Read Online.
   * [Machine Learning Book](https://phuijse.github.io/MachineLearningBook/README.html) ➡️Read Online.
   * [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)➡️Read Online.
+  * [MachineLearning_AndrewNg_StandfordUniversity](https://media.licdn.com/dms/document/media/v2/D4D1FAQESkB31BK6zCA/feedshare-document-url-metadata-scrapper-pdf/B4DZzTaemfJ4A4-/0/1773073463476?e=1774162800&v=beta&t=QpuoCr-qyR72zxV3aM72ucbuts10aIAdKbRMQQS2uN0)
 
 ## 📙 MLOP
   * [Practical MLOps - Operationalizing Machine Learning Models](https://media.licdn.com/dms/document/media/v2/D4E1FAQGHzHWuqBsbQQ/feedshare-document-pdf-analyzed/B4EZmIy_qUHoAY-/0/1758936714150?e=1759968000&v=beta&t=ts-7TW04Rwar3VYOYl9gha6JsqUHNIkFxeje0B80tOc)
