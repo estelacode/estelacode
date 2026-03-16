@@ -13,6 +13,7 @@
  * [Telling Stories with Data](https://tellingstorieswithdata.com/) ➡️Read Online.
  * [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/Papers/DSA_Book.pdf)
  * [Data Science](https://mrce.in/ebooks/Data%20Science.pdf)
+ * [Fun-damentals of PYTHON](https://media.licdn.com/dms/document/media/v2/D561FAQF_O0Zxl592MQ/feedshare-document-pdf-analyzed/B56Zzz1BaSJ8AY-/0/1773617308151?e=1774483200&v=beta&t=WFv79hcBinh1jegmyhZkKq7gB9_zExQyqFFD2CQTgsg)
 
  ## 📘 R 
  * [Fundamentos de ciencia de datos con R](https://cdr-book.github.io/index.html) ➡️Read Online.
