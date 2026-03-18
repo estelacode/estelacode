@@ -4,9 +4,7 @@
 I'm currently learning and working on projects about mcps and multi-agents and agentic systems.
 I’m particularly interested in building Agentic AI solutions that combine data, automation, and human-centered design to solve real-world problems.
 
-Excited for what’s next 🚀
-Open to opportunities in Data Science and AI.
-#NVIDIA #AgenticAI #GenerativeAI #DataScience #AI #CareerGrowth #WomenInTech
+#AgenticAI #GenerativeAI #DataScience #AI #CareerGrowth #WomenInTech
 
 <!--
 I am currently learning about Generative AI:  
