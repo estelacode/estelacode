@@ -1,3 +1,5 @@
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Professional%20Agentic%20AI-76B900?logo=nvidia&logoColor=white)](https://www.credly.com/badges/47feaa6d-a460-4b0f-b8a1-79096c0588c4)
+
 ### Hi there 👋
 I am currently learning about Generative AI:  
 - **LLMs**(Large Language Models) 
