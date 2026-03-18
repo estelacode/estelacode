@@ -1,7 +1,7 @@
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Professional%20Agentic%20AI-76B900?logo=nvidia&logoColor=white)](https://www.credly.com/badges/47feaa6d-a460-4b0f-b8a1-79096c0588c4)
 
 ### Hi there 👋
-I'm currently learning and working on projects about mcps and multi-agents and agentic systems.
+I'm currently learning and working on projects about mcps and multi-agents and agentic systems🤖🤖🤖.
 I’m particularly interested in building Agentic AI solutions that combine data, automation, and human-centered design to solve real-world problems.
 
 #AgenticAI #GenerativeAI #DataScience #AI #CareerGrowth #WomenInTech
