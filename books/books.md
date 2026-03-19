@@ -55,6 +55,7 @@
  * [Al Agents in Kubernetes: Building and Running Al Agents for Production](https://pages.solo.io/rs/132-VJP-402/images/AI-Agents-in-Kubernetes-1stEdition-2025_10.pdf?version=0)
  * [The Complete Guide to AI Agent Architectures in 2026](https://agnt.gg/articles/the-complete-guide-to-ai-agent-architectures-2026?utm_source=chatgpt.com) ➡️Read Online.
  * [Building_Aplications_with_AI_Agents-Designing and Implementing Multiagent Systems](https://media.licdn.com/dms/document/media/v2/D4D1FAQEgawi2myVFsw/feedshare-document-pdf-analyzed/B4DZzBB0GQHIAY-/0/1772765016385?e=1773878400&v=beta&t=2Kzaly3Qpimpw_tOQ6g-8O42zfR7sJDMXJo2udFZ_ak)
+ * [Al Engineering:_Building Applications with Foundation Models](https://media.licdn.com/dms/document/media/v2/D4D1FAQGxGQvEsKJw2w/feedshare-document-sanitized-pdf/B4DZz9G5TvG0A8-/0/1773772972611?e=1774512000&v=beta&t=nmswz1oM-4dGzSqV_t8Y0r_BdFnvPLbnYttaH2e6aUc)
 
  * [Essential GraphRAG: Knowledge Graph-Enhanced RAG](https://media.licdn.com/dms/document/media/v2/D561FAQFYL4NS5k8q6A/feedshare-document-pdf-analyzed/B56ZzrRpilGgAY-/0/1773473803746?e=1774483200&v=beta&t=s704heECwGKudJMaBgWX9rntDO_J_d2M21F__6BEjEQ)
 
