@@ -38,6 +38,7 @@
   * [MachineLearning_AndrewNg_StandfordUniversity](https://media.licdn.com/dms/document/media/v2/D4D1FAQESkB31BK6zCA/feedshare-document-url-metadata-scrapper-pdf/B4DZzTaemfJ4A4-/0/1773073463476?e=1774162800&v=beta&t=QpuoCr-qyR72zxV3aM72ucbuts10aIAdKbRMQQS2uN0)
   * [Pro Machine Learning Algorithms: A Hands-On Approach to Implementing Algorithms in Python and R (apress)](https://media.licdn.com/dms/document/media/v2/D4D1FAQG5e3DNU7bTuQ/feedshare-document-url-metadata-scrapper-pdf/B4DZzqLQxrH4A4-/0/1773455350902?e=1774166400&v=beta&t=T8qJjU2BB3idF4yn6peXQ9x_tMuw3GL984Kp7qCB8kk)
   * [Machine Learning Engineering](https://media.licdn.com/dms/document/media/v2/D561FAQEEEj_55RvZSw/feedshare-document-pdf-analyzed/B56ZzvTD42KUAY-/0/1773541290802?e=1774483200&v=beta&t=1kiNT-jUSK3ppsANTq5x37pWzBLHZUKSe80anPdbJVI)
+  * [Designing Machine Learning Systems](https://media.licdn.com/dms/document/media/v2/D4D1FAQHNXGifvf5F3g/feedshare-document-sanitized-pdf/B4DZyH3HdvJoA8-/0/1771805902822?e=1774695600&v=beta&t=xgErY6ICH2Yv-9sh61czj6vpr5FkEnxOgYJN817vl1E)
 
 ## 📙 MLOP
   * [Practical MLOps - Operationalizing Machine Learning Models](https://media.licdn.com/dms/document/media/v2/D4E1FAQGHzHWuqBsbQQ/feedshare-document-pdf-analyzed/B4EZmIy_qUHoAY-/0/1758936714150?e=1759968000&v=beta&t=ts-7TW04Rwar3VYOYl9gha6JsqUHNIkFxeje0B80tOc)
