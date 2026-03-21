@@ -15,6 +15,7 @@
  * [Data Science](https://mrce.in/ebooks/Data%20Science.pdf)
  * [Fun-damentals of PYTHON](https://media.licdn.com/dms/document/media/v2/D561FAQF_O0Zxl592MQ/feedshare-document-pdf-analyzed/B56Zzz1BaSJ8AY-/0/1773617308151?e=1774483200&v=beta&t=WFv79hcBinh1jegmyhZkKq7gB9_zExQyqFFD2CQTgsg)
  * [Python tips & tricks a collection of 100 basic and intermediate tips and tricks](https://media.licdn.com/dms/document/media/v2/D4D1FAQHmqf3KP1dGCg/feedshare-document-url-metadata-scrapper-pdf/B4DZ0JGDbUKEA4-/0/1773974076782?e=1774594800&v=beta&t=wLKXL4LCf7McYg8-JUdq3co7IxfeiSw65mhRhdrD1Qg)
+ * [The Data Science HandBook](https://media.licdn.com/dms/document/media/v2/D4D1FAQFZqAFI9QxzAg/feedshare-document-sanitized-pdf/B4DZ0OLoDNGcA8-/0/1774059424833?e=1774684800&v=beta&t=p2tsYwRS22RjHW0IXguzqJR8tBo6pt3dTMpQb9GM7Hw)
 
  ## 📘 R 
  * [Fundamentos de ciencia de datos con R](https://cdr-book.github.io/index.html) ➡️Read Online.
