@@ -32,6 +32,7 @@
 * Mastering - LLM as a Judge: https://drive.google.com/file/d/1BqnEEy_2_1OtlLPpu1QeIjRODTivtAxR/view
 * Mastering AI Agents - A comprehensive guide for evaluating AI agents: https://drive.google.com/file/d/1xKR97fNi98Z9QVHIEEbhDYV5oV--EAkg/view
 * Mastering RAG - A comprehensive guide for building enterprise-grade RAG systems: https://www.rivista.ai/wp-content/uploads/2025/06/1750505644548.pdf
+* [Mastering Multi-Agent Systems:Real-World Strategies for Multi-Agent Development](https://media.licdn.com/dms/document/media/v2/D4D1FAQFphyUIYFSZeQ/feedshare-document-sanitized-pdf/B4DZz9JlngJQA8-/0/1773773679502?e=1774789200&v=beta&t=s35gsXJyATJx4PexYNiPcOpEJy0k-mtSUpDAtgAsziY)
 
 ## ◻️ Weaviate
 * Agentic Architectures for Retrieval-intensive Applications: https://8738733.fs1.hubspotusercontent-na1.net/hubfs/8738733/eBooks/Weaviate%20Agentic%20Architectures-ebook.pdf
