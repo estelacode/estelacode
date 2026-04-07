@@ -14,6 +14,7 @@
 * [5-Day AI Agents Intensive Course - Agent Tools & Interoperability with MCP](https://drive.google.com/file/d/1ENMUDzybOzxnycQQxNh5sE9quRd0s3Sd/view)
 * [5-Day AI Agents Intensive Course - Context Engineering: Sessions, Memory](https://drive.google.com/file/d/1JW6Q_wwvBjMz9xzOtTldFfPiF7BrdEeQ/view)
 * [An enterprise guide to multi-agent systems](https://services.google.com/fh/files/misc/25952_grdg_enterprise_technical_guide_ebook_final.pdf)
+* [Startup technical guide - Agents](https://media.licdn.com/dms/document/media/v2/D561FAQFdtTmG4BG88A/feedshare-document-sanitized-pdf/B56Z1aL7_wKkBA-/0/1775334577427?e=1776160800&v=beta&t=JNjQzVCpJ3LvtjPhqfbHEwHeU8u3UZYLd3_TKvENiXU)
 
 ## ◻️ Open AI
 * A practical guide to building agents: https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
