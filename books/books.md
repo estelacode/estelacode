@@ -51,6 +51,7 @@ In the Era of Deep Learning - Draft Version](https://media.licdn.com/dms/documen
  * [Deep Learning- Foundations and Concept](https://personalpages.manchester.ac.uk/staff/mingfei.sun/books/deep-learning.pdf)
  * [Deep Learning: An MIT Press book](https://www.deeplearningbook.org/)➡️Read Online.
  * [Undertanding Deep Learning](https://udlbook.github.io/udlbook/)
+ * [Deep Learning For The Life Sciences: Applying Deep Learning to Genomics, Microscopy, Drug Discovery & More](https://media.licdn.com/dms/document/media/v2/D561FAQEWejtoa3o5yw/feedshare-document-url-metadata-scrapper-pdf/B56Z37SnJAHEA8-/0/1778037463757?e=1778684400&v=beta&t=cezkJWFvGWAYJTugvSi902uZspqxIzJF0xO4tjQ2DAs)
  ## 📔 AI | AI Agents
  * [Artificial Intelligence - Foundations of Computational Agents](https://mrce.in/ebooks/AI%20Foundations%20of%20Computational%20Agents%203rd%20Ed.pdf)
  * [Artificial Intelligence - A Modern Approach](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf)
