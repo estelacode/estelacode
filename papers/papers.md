@@ -1,5 +1,10 @@
 # 📌📑Papers
 
+# ◽ 2026
+30.01.26 Spec-Driven Development: From Code to Contract in the Age of AI Coding Assistants
+https://arxiv.org/pdf/2602.00180
+
+
 # ◽ 2025
 * 20.08.25 MCP-Universe: Benchmarking Large Language Models with MCP-Universe Real-World Model Context Protocol Servers https://arxiv.org/pdf/2508.14704
 * 13.08.25 Agentic AI Frameworks: Architectures, Protocols, and Design Challenges https://arxiv.org/pdf/2508.10146
