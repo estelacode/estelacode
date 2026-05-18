@@ -1,5 +1,9 @@
 #  🧠 Whitepapers 
 
+
+## ◻️Nvisia
+* [Spec-Driven Development: My Journey Using the GitHub Spec Kit - MICHAEL HOFFMAN](https://www.nvisia.com/hubfs/Miscellaneous/Thought%20Leadership/nvisia%20White%20Paper%20-%20Spec-Driven%20Development.pdf)
+
 ## ◻️ Google Whitepapers
 * [5-Day Gen AI Intensive Course - Foundational Large Language Models & Text Generation](https://drive.google.com/file/d/1rYu-mIcsTrAeCuH-xHPofrI1i1qNVzqO/view)
 * [5-Day Gen AI Intensive Course - Prompt Engineering](https://drive.google.com/file/d/1AbaBYbEa_EbPelsT40-vj64L-2IwUJHy/view)
