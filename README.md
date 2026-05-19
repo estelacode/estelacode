@@ -9,4 +9,4 @@ With a background in Data Science and Product Design, I approach AI from both a 
 
 Currently deepening my expertise in agentic AI, working with tools like Claude Code and applying spec-driven development (SDD).
 
-I'm sharing interesting information about Data Science + AI in [my wiki](https://github.com/estelacode/estelacode/wiki/GenAI-Wiki)
+✨ I also share insights and learnings on 📊Data Science + 🧠AI in [my wiki](https://github.com/estelacode/estelacode/wiki/GenAI-Wiki)
