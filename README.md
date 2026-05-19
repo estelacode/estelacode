@@ -8,3 +8,5 @@ I design and develop end-to-end AI solutions with a strong focus on practical us
 With a background in Data Science and Product Design, I approach AI from both a technical and product perspective building systems that are not only functional, but also with a strong product and user-centered mindset.
 
 Currently deepening my expertise in agentic AI, working with tools like Claude Code and applying spec-driven development (SDD).
+
+I'm sharing interesting information about Data Science + AI in [my wiki](https://github.com/estelacode/estelacode/wiki/GenAI-Wiki)
