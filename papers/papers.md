@@ -2,6 +2,7 @@
 
 # ◽ 2026
 * [04.05.26 SkillOS: Learning Skill Curation for Self-Evolving Agents](https://arxiv.org/pdf/2605.06614)
+* [29.04.26 Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](https://arxiv.org/pdf/2604.26275)
 * [07.04.26 Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
 * [26.03.26 The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase](https://arxiv.org/pdf/2603.25697v1)
 * [17.02.26 Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/pdf/2602.12430)
