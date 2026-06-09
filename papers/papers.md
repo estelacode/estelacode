@@ -1,7 +1,7 @@
 # 📌📑Papers
 
 # ◽ 2026
-
+* [28.05.26 SpecBench: Evaluating Specification-Level Reasoning for Software Engineering LLM Agents](https://arxiv.org/pdf/2605.30314v1)
 * [04.05.26 SkillOS: Learning Skill Curation for Self-Evolving Agents](https://arxiv.org/pdf/2605.06614)
 * [29.04.26 Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](https://arxiv.org/pdf/2604.26275)
 * [07.04.26 Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
