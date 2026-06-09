@@ -1,6 +1,7 @@
 # 📌📑Papers
 
 # ◽ 2026
+* [03.06.26 From Prompt to Process: a Process Taxonomy and Comparative Assessment of Frameworks Supporting AI Software Development Agents (PDF)](https://arxiv.org/pdf/2606.04967v1) || [HTML Version](https://arxiv.org/html/2606.04967v1)
 * [28.05.26 SpecBench: Evaluating Specification-Level Reasoning for Software Engineering LLM Agents (PDF)](https://arxiv.org/pdf/2605.30314v1) || [HTML Version](https://arxiv.org/html/2605.30314v1)
 * [04.05.26 SkillOS: Learning Skill Curation for Self-Evolving Agents](https://arxiv.org/pdf/2605.06614)
 * [29.04.26 Agentic AI in the Software Development Lifecycle: Architecture, Empirical Evidence, and the Reshaping of Software Engineering](https://arxiv.org/pdf/2604.26275)
