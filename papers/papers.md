@@ -8,7 +8,7 @@
 * [26.03.26 The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase](https://arxiv.org/pdf/2603.25697v1)
 * [17.02.26 Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/pdf/2602.12430)
 * [30.01.26 Spec-Driven Development: From Code to Contract in the Age of AI Coding Assistants](https://arxiv.org/pdf/2602.00180)
-* [16.12.24 SPECIFICATIONS: THE MISSING LINK TO MAKING THE DEVELOPMENT OF LLM SYSTEMS AN ENGINEERING DISCIPLINE (PDF)](https://arxiv.org/pdf/2412.05299v2) || [HTML Version](https://arxiv.org/html/2412.05299v2)
+* [16.12.24 Specifications: The Missing Link To Making The Development Of LLM Systems An Engineering Discipline (PDF)](https://arxiv.org/pdf/2412.05299v2) || [HTML Version](https://arxiv.org/html/2412.05299v2)
 
 # ◽ 2025
 * [20.08.25 MCP-Universe: Benchmarking Large Language Models with MCP-Universe Real-World Model Context Protocol Servers](https://arxiv.org/pdf/2508.14704)
