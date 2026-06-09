@@ -8,6 +8,7 @@
 * [07.04.26 Spec Kit Agents: Context-Grounded Agentic Workflows](https://arxiv.org/pdf/2604.05278)
 * [26.03.26 The Kitchen Loop: User-Spec-Driven Development for a Self-Evolving Codebase](https://arxiv.org/pdf/2603.25697v1)
 * [17.02.26 Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward](https://arxiv.org/pdf/2602.12430)
+* [31.01.26 Constitutional Spec-Driven Development: Enforcing Security by Construction in AI-Assisted Code Generation](https://arxiv.org/pdf/2602.02584)
 * [30.01.26 Spec-Driven Development: From Code to Contract in the Age of AI Coding Assistants](https://arxiv.org/pdf/2602.00180)
 * [16.12.24 Specifications: The Missing Link To Making The Development Of LLM Systems An Engineering Discipline (PDF)](https://arxiv.org/pdf/2412.05299v2) || [HTML Version](https://arxiv.org/html/2412.05299v2)
 
