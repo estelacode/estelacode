@@ -1,5 +1,8 @@
 #  🧠 Whitepapers 
 
+## ## ◻️ Anthropic
+* [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+* [Building trusted AI in the enterprise - Anthropic’s guide to starting, scaling, and succeeding based on real-world examples and best practices](https://assets.anthropic.com/m/66daaa23018ab0fd/original/Anthropic-enterprise-ebook-digital.pdf)
 
 ## ◻️Nvisia
 * [Spec-Driven Development: My Journey Using the GitHub Spec Kit - MICHAEL HOFFMAN](https://www.nvisia.com/hubfs/Miscellaneous/Thought%20Leadership/nvisia%20White%20Paper%20-%20Spec-Driven%20Development.pdf)
@@ -29,9 +32,6 @@
 ## ◻️ IBM 
 * Agentic AI in Financial Services Opportunities, Risks, and Responsible Implementation: https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329
 
-## ◻️ Anthropic
-* [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
-* Building trusted AI in the enterprise - Anthropic’s guide to starting, scaling, and succeeding based on real-world examples and best practices: https://assets.anthropic.com/m/66daaa23018ab0fd/original/Anthropic-enterprise-ebook-digital.pdf
 
 ## ◻️Galileo
 * Building trust in generative AI - Essential evaluation techniques: https://drive.google.com/file/d/1NxPaHcNgcNGCORZW9-RJ_gGuw3kHT035/view
