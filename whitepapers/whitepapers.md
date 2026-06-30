@@ -1,6 +1,6 @@
 #  🧠 Whitepapers 
 
-## ## ◻️ Anthropic
+## ◻️ Anthropic
 * [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 * [Building trusted AI in the enterprise - Anthropic’s guide to starting, scaling, and succeeding based on real-world examples and best practices](https://assets.anthropic.com/m/66daaa23018ab0fd/original/Anthropic-enterprise-ebook-digital.pdf)
 
