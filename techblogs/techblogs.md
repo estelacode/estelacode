@@ -2,7 +2,7 @@
 
 This document contains a curated list of high-value technical blogs focused on artificial intelligence system design, scalable architectures, and data science in production environments.
 
----
+
 
 ## ⚡ Frontier AI & Hardware Engineering
 
@@ -23,9 +23,9 @@ Official platforms of the companies building the foundational infrastructure, ha
 *   **Anthropic News & Research**
     *   **Description:** Core announcements, economic impact studies of AI agents, code generation benchmarks (Claude Code), and foundational AI safety research.
     *   **Key Topics:** #Claude, #AgenticCoding, #AISafety, #LLM-Research
-    *   **URL:** [https://www.anthropic.com/news](https://www.anthropic.com/news)
+    *   **URL:** [https://www.anthropic.com/news](https://www.anthropic.com/news) | [https://claude.com/blog](https://claude.com/blog)
 
----
+
 
 ## 🧑‍💻 Expert & AI Practitioner Blogs
 
