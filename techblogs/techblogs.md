@@ -4,6 +4,29 @@ This document contains a curated list of high-value technical blogs focused on a
 
 ---
 
+## ⚡ Frontier AI & Hardware Engineering
+
+Official platforms of the companies building the foundational infrastructure, hardware acceleration, and core developer tools for modern AI systems.
+
+*   **NVIDIA Developer Blog**
+    *   **Description:** Industrial-grade tutorials on GPU acceleration, TensorRT inference optimization, and building enterprise AI factories.
+    *   **Key Topics:** #GPU-Acceleration, #InferencePerformance, #CUDA, #LLMOps
+    *   **URL:** [https://developer.nvidia.com/blog/](https://developer.nvidia.com/blog/)
+*   **Google Developers Blog**
+    *   **Description:** Engineering notes on Google's developer ecosystem, machine learning tools, production best practices, and cloud integration.
+    *   **Key Topics:** #CloudAI, #DeveloperTools, #Scalability, #MachineLearning
+    *   **URL:** [https://developers.googleblog.com/](https://developers.googleblog.com/)
+*   **OpenAI Developer Blog**
+    *   **Description:** Technical notes, structured outputs implementation, system prompts optimization, and production-grade agent architectures.
+    *   **Key Topics:** #API, #StructuredOutputs, #LLMs, #AI-Agents
+    *   **URL:** [https://developers.openai.com/blog](https://developers.openai.com/blog)
+*   **Anthropic News & Research**
+    *   **Description:** Core announcements, economic impact studies of AI agents, code generation benchmarks (Claude Code), and foundational AI safety research.
+    *   **Key Topics:** #Claude, #AgenticCoding, #AISafety, #LLM-Research
+    *   **URL:** [https://www.anthropic.com/news](https://www.anthropic.com/news)
+
+---
+
 ## 🧑‍💻 Expert & AI Practitioner Blogs
 
 Maintained by industry leaders deploying Large Language Models (LLMs) and Machine Learning (ML) infrastructure in the real world.
@@ -25,25 +48,4 @@ Maintained by industry leaders deploying Large Language Models (LLMs) and Machin
     *   **Key Topics:** #LLM-Evaluation, #DataPipelines, #FineTuning
     *   **URL:** [https://hamel.dev](https://hamel.dev)
 
-## 🏢 Big Tech Engineering Blogs
 
-Official publications where global enterprise companies share the architectural challenges and solutions they face at massive scale.
-
-*   **Netflix Tech Blog**
-    *   **Description:** Global recommendation systems, distributed computing, and massive data processing pipelines.
-    *   **Key Topics:** #RecommendationSystems, #DataEngineering, #Scalability
-    *   **URL:** [https://netflixtechblog.com](https://netflixtechblog.com)
-*   **OpenAI Product & Developer Blog**
-    *   **Description:** Official API updates, structured outputs, frontier model releases, and alignment/security features.
-    *   **Key Topics:** #API, #StructuredOutputs, #LLMs
-    *   **URL:** [https://developers.openai.com/learn](https://developers.openai.com/learn)
-*   **Airbnb Tech Blog**
-    *   **Description:** Semantic search implementation, AI-driven personalization, and advanced data science workflows.
-    *   **Key Topics:** #SemanticSearch, #Personalization, #DataScience
-    *   **URL:** [https://medium.com](https://medium.com)
-*   **Pinterest Engineering Blog**
-    *   **Description:** Graph Neural Networks (GNNs), massive-scale recommendation engines, and vector search optimization.
-    *   **Key Topics:** #GNN, #VectorSearch, #RecommendationEngines
-    *   **URL:** [https://medium.com](https://medium.com)
-
----
