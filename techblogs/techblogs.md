@@ -33,14 +33,10 @@ Official publications where global enterprise companies share the architectural 
     *   **Description:** Global recommendation systems, distributed computing, and massive data processing pipelines.
     *   **Key Topics:** #RecommendationSystems, #DataEngineering, #Scalability
     *   **URL:** [https://netflixtechblog.com](https://netflixtechblog.com)
-*   **Uber Engineering Blog**
-    *   **Description:** Real-time architectures, Feature Stores, and insights into Michelangelo, their internal ML platform.
-    *   **Key Topics:** #FeatureStore, #RealTimeData, #ML-Platforms
-    *   **URL:** [https://uber.com](https://uber.com)
 *   **OpenAI Product & Developer Blog**
     *   **Description:** Official API updates, structured outputs, frontier model releases, and alignment/security features.
     *   **Key Topics:** #API, #StructuredOutputs, #LLMs
-    *   **URL:** [https://openai.com](https://openai.com)
+    *   **URL:** [https://developers.openai.com/learn](https://developers.openai.com/learn)
 *   **Airbnb Tech Blog**
     *   **Description:** Semantic search implementation, AI-driven personalization, and advanced data science workflows.
     *   **Key Topics:** #SemanticSearch, #Personalization, #DataScience
